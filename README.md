@@ -26,30 +26,17 @@ This tool automatically detects LTC timecode embedded in a video file's audio tr
 
 ## Installation
 
-1. Install the required dependencies using Homebrew:
+Install the required dependencies using Homebrew:
 
 ```bash
 brew install ffmpeg ltc-tools
-```
-
-2. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/ltc-converter-shortcut.git
-cd ltc-converter-shortcut
-```
-
-3. Make the script executable (optional for standalone use):
-
-```bash
-chmod +x script.sh
 ```
 
 ## Usage
 
 ### Standalone Command Line Usage
 
-Run the script directly from the terminal:
+Copy the script from this repository and save it locally. Then run it directly from the terminal:
 
 ```bash
 ./script.sh video1.mov video2.mp4 video3.mov
