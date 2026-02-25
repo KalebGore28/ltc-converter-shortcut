@@ -46,7 +46,7 @@ The script will process each file and create output files with the suffix `_tc` 
 
 ### Apple Shortcuts Integration
 
-Follow these steps to create an Apple Shortcut for easy drag-and-drop conversion:
+**[Download the shortcut here](https://www.icloud.com/shortcuts/f9f2a8fb0cbe4a9a809d8ac96c4b0763)** to get started instantly, or follow the manual setup instructions below to create it yourself.
 
 #### Setup Instructions
 
@@ -104,16 +104,19 @@ The output file contains the video stream with embedded timecode metadata but no
 ## Troubleshooting
 
 **No LTC found**
+
 - Ensure your video has LTC timecode on an audio track
 - Verify the LTC signal is present in the first 5 seconds
 - Check that the audio is on the first audio track (index 0)
 
 **Shortcut doesn't run**
+
 - Verify "Allow Running Scripts" is enabled in Shortcuts settings
 - Check that ffmpeg and ltc-tools are installed: `which ffmpeg ltcdump`
 - Ensure the paths in the script match your Homebrew installation (default: `/opt/homebrew/bin/`)
 
 **Permission errors**
+
 - Grant Shortcuts access to files in System Settings → Privacy & Security → Automation
 
 ## License
