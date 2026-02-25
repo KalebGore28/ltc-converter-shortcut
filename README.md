@@ -46,7 +46,7 @@ The script will process each file and create output files with the suffix `_tc` 
 
 ### Apple Shortcuts Integration
 
-**[Download the shortcut here](https://www.icloud.com/shortcuts/f9f2a8fb0cbe4a9a809d8ac96c4b0763)** to get started instantly, or follow the manual setup instructions below to create it yourself.
+**[Download the shortcut here](https://www.icloud.com/shortcuts/9e94fffbd80f4423a4eb3f3513b9c809)** to get started instantly, or follow the manual setup instructions below to create it yourself.
 
 #### Setup Instructions
 
