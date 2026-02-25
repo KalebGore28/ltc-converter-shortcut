@@ -115,10 +115,6 @@ The output file contains the video stream with embedded timecode metadata but no
 - Check that ffmpeg and ltc-tools are installed: `which ffmpeg ltcdump`
 - Ensure the paths in the script match your Homebrew installation (default: `/opt/homebrew/bin/`)
 
-**Permission errors**
-
-- Grant Shortcuts access to files in System Settings → Privacy & Security → Automation
-
 ## License
 
 This project is provided as-is for professional video production workflows.
