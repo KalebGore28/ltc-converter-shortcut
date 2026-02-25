@@ -94,7 +94,7 @@ The script will process each file and create output files with the suffix `_tc` 
    - Audio tracks removed
    - Detected timecode embedded as metadata
 
-## Output
+## Output Example (Supports every format ffmpeg does)
 
 - Input: `video.mov`
 - Output: `video_tc.mov`
